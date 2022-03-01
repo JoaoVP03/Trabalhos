@@ -1,0 +1,28 @@
+﻿  CalOlimpico.c
+C:\Users\Jhon6\Desktop\ProjetoPim\ProjetoPim\ProjetoPim\ProjetoPim\CalOlimpico.c(22,19): warning C4098: 'CalOlimpico': função 'void' retornando um valor
+C:\Users\Jhon6\Desktop\ProjetoPim\ProjetoPim\ProjetoPim\ProjetoPim\CalOlimpico.c(33,11): warning C4477: 'scanf': a cadeia de formato '%d' requer um argumento do tipo 'int *', mas um argumento variadic 1 tem o tipo 'FILE **'
+  ListaAtleta.c
+C:\Users\Jhon6\Desktop\ProjetoPim\ProjetoPim\ProjetoPim\ProjetoPim\ListaAtleta.c(29,23): warning C4098: 'ListaAtletas': função 'void' retornando um valor
+C:\Users\Jhon6\Desktop\ProjetoPim\ProjetoPim\ProjetoPim\ProjetoPim\ListaAtleta.c(40,11): warning C4477: 'scanf': a cadeia de formato '%d' requer um argumento do tipo 'int *', mas um argumento variadic 1 tem o tipo 'FILE **'
+  CadGeral.c
+C:\Users\Jhon6\Desktop\ProjetoPim\ProjetoPim\ProjetoPim\ProjetoPim\CadGeral.c(50,17): warning C4013: 'gets' indefinido; assumindo extern retornando int
+C:\Users\Jhon6\Desktop\ProjetoPim\ProjetoPim\ProjetoPim\ProjetoPim\CadGeral.c(138,11): warning C4477: 'scanf': a cadeia de formato '%d' requer um argumento do tipo 'int *', mas um argumento variadic 1 tem o tipo 'FILE **'
+  TabMedalhas.c
+C:\Users\Jhon6\Desktop\ProjetoPim\ProjetoPim\ProjetoPim\ProjetoPim\TabMedalhas.c(27,23): warning C4098: 'TabelaMedalhas': função 'void' retornando um valor
+C:\Users\Jhon6\Desktop\ProjetoPim\ProjetoPim\ProjetoPim\ProjetoPim\TabMedalhas.c(38,11): warning C4477: 'scanf': a cadeia de formato '%d' requer um argumento do tipo 'int *', mas um argumento variadic 1 tem o tipo 'FILE **'
+  Covid_19.c
+C:\Users\Jhon6\Desktop\ProjetoPim\ProjetoPim\ProjetoPim\ProjetoPim\Covid_19.c(37,11): warning C4477: 'scanf': a cadeia de formato '%d' requer um argumento do tipo 'int *', mas um argumento variadic 1 tem o tipo 'FILE **'
+  ListarAtletas.c
+C:\Users\Jhon6\Desktop\ProjetoPim\ProjetoPim\ProjetoPim\ProjetoPim\ListarAtletas.c(10,11): warning C4013: 'printf' indefinido; assumindo extern retornando int
+C:\Users\Jhon6\Desktop\ProjetoPim\ProjetoPim\ProjetoPim\ProjetoPim\ListarAtletas.c(20,10): warning C4013: 'scanf' indefinido; assumindo extern retornando int
+  PrincTela.c
+C:\Users\Jhon6\Desktop\ProjetoPim\ProjetoPim\ProjetoPim\ProjetoPim\PrincTela.c(15,10): warning C4098: 'Tela': função 'void' retornando um valor
+  PrintTela.c
+  Tela1.c
+  Tela2.c
+  TelaDeIni.c
+C:\Users\Jhon6\Desktop\ProjetoPim\ProjetoPim\ProjetoPim\ProjetoPim\TelaDeIni.c(53,13): warning C4013: 'gets' indefinido; assumindo extern retornando int
+C:\Users\Jhon6\Desktop\ProjetoPim\ProjetoPim\ProjetoPim\ProjetoPim\TelaDeIni.c(56,22): warning C4013: 'getch' indefinido; assumindo extern retornando int
+C:\Users\Jhon6\Desktop\ProjetoPim\ProjetoPim\ProjetoPim\ProjetoPim\TelaDeIni.c(57,24): warning C4013: 'isprint' indefinido; assumindo extern retornando int
+  Gerando Código...
+  ProjetoPim.vcxproj -> C:\Users\Jhon6\Desktop\ProjetoPim\ProjetoPim\ProjetoPim\Debug\ProjetoPim.exe
